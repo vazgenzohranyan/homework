@@ -1,0 +1,17 @@
+{
+  "name": "untitled5",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "*",
+    "express-graphql": "*",
+    "graphql": "*"
+  },
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

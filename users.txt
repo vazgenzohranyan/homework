@@ -1,0 +1,14 @@
+{
+        "a3dcb4d229de6fde0db5686dee47145d" : {
+                "name": "User1",
+                "points": 500
+
+        },
+
+        "7b71d9fdfe5b15a2d1a4968c195f93ae" : {
+                "name": "User2",
+                "points": 300
+
+        }
+
+}
